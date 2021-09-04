@@ -1,0 +1,17 @@
+{
+  "name": "AwesomeTSProject",
+  "displayName": "AwesomeTSProject",
+  "expo": {
+  "name": "Calculadora Ios",
+  "icon": "./icons/calculator-app-icon-16.jpg",
+  "version": "1.0.0",
+  "slug": "your-app-slug",
+  "sdkVersion": "17.0.0",
+  "ios": {
+    "bundleIdentifier": "com.yourcompany.yourappname"
+  },
+  "android": {
+    "package": "com.yourcompany.yourappname"
+  }
+}
+} 
